@@ -207,6 +207,7 @@ Build the procurement raw data landing and staging environment.
 
 
 ## Repository Structure
+'''
 UC13-Enterprise-Procurement-Data-Platform/
 │
 ├── docs/
@@ -385,7 +386,7 @@ UC13-Enterprise-Procurement-Data-Platform/
 │   └── validation/
 │
 └── README.md
-
+'''
 
 ## Data Quality
 
