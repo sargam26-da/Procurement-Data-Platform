@@ -430,7 +430,7 @@
     <created_date>2026/08/21 12:15:29.886</created_date>
     <modified_user>-</modified_user>
     <modified_date>2026/08/21 12:15:29.886</modified_date>
-    <key_for_session_key/>
+    <key_for_session_key>H4sIAAAAAAAAAAMAAAAAAAAAAAA=</key_for_session_key>
     <is_key_private>N</is_key_private>
   </info>
   <notepads>
@@ -525,7 +525,7 @@
     <accept_field/>
     <accept_stepname/>
     <file>
-      <name>C:\Users\sarga\Documents\VIT\DA\Procurement-Data-Platform\datasets\purchase_orders.xlsx</name>
+      <name>C:\Users\sarga\Documents\VIT\DE\Procurement-Data-Platform\datasets\purchase_orders.xlsx</name>
       <filemask/>
       <exclude_filemask/>
       <file_required>N</file_required>
@@ -1375,7 +1375,7 @@
     <schema>staging</schema>
     <table>purchase_orders</table>
     <commit>5000</commit>
-    <truncate>Y</truncate>
+    <truncate>N</truncate>
     <ignore_errors>N</ignore_errors>
     <use_batch>Y</use_batch>
     <specify_fields>Y</specify_fields>
@@ -1390,87 +1390,95 @@
     <return_field/>
     <fields>
       <field>
-        <column_name>po_id</column_name>
+        <column_name>PO_ID</column_name>
         <stream_name>PO_ID</stream_name>
       </field>
       <field>
-        <column_name>po_date</column_name>
+        <column_name>PO_Date</column_name>
         <stream_name>PO_Date</stream_name>
       </field>
       <field>
-        <column_name>supplier_id</column_name>
+        <column_name>Supplier_ID</column_name>
         <stream_name>Supplier_ID</stream_name>
       </field>
       <field>
-        <column_name>product_id</column_name>
+        <column_name>Product_ID</column_name>
         <stream_name>Product_ID</stream_name>
       </field>
       <field>
-        <column_name>warehouse_id</column_name>
+        <column_name>Warehouse_ID</column_name>
         <stream_name>Warehouse_ID</stream_name>
       </field>
       <field>
-        <column_name>contract_id</column_name>
+        <column_name>Contract_ID</column_name>
         <stream_name>Contract_ID</stream_name>
       </field>
       <field>
-        <column_name>supply_type</column_name>
+        <column_name>Supply_Type</column_name>
         <stream_name>Supply_Type</stream_name>
       </field>
       <field>
-        <column_name>quantity</column_name>
+        <column_name>Quantity</column_name>
         <stream_name>Quantity</stream_name>
       </field>
       <field>
-        <column_name>subtotal_inr</column_name>
+        <column_name>Unit_Cost_INR</column_name>
+        <stream_name>Unit_Cost_INR</stream_name>
+      </field>
+      <field>
+        <column_name>Subtotal_INR</column_name>
         <stream_name>Subtotal_INR</stream_name>
       </field>
       <field>
-        <column_name>freight_inr</column_name>
+        <column_name>Freight_INR</column_name>
         <stream_name>Freight_INR</stream_name>
       </field>
       <field>
-        <column_name>import_duty_inr</column_name>
+        <column_name>Import_Duty_Percent</column_name>
+        <stream_name>Import_Duty_Percent</stream_name>
+      </field>
+      <field>
+        <column_name>Import_Duty_INR</column_name>
         <stream_name>Import_Duty_INR</stream_name>
       </field>
       <field>
-        <column_name>tax_inr</column_name>
+        <column_name>Tax_INR</column_name>
         <stream_name>Tax_INR</stream_name>
       </field>
       <field>
-        <column_name>total_po_value_inr</column_name>
+        <column_name>Total_PO_Value_INR</column_name>
         <stream_name>Total_PO_Value_INR</stream_name>
       </field>
       <field>
-        <column_name>currency</column_name>
+        <column_name>Currency</column_name>
         <stream_name>Currency</stream_name>
       </field>
       <field>
-        <column_name>exchange_rate_to_inr</column_name>
+        <column_name>Exchange_Rate_to_INR</column_name>
         <stream_name>Exchange_Rate_to_INR</stream_name>
       </field>
       <field>
-        <column_name>shipping_mode</column_name>
+        <column_name>Shipping_Mode</column_name>
         <stream_name>Shipping_Mode</stream_name>
       </field>
       <field>
-        <column_name>expected_delivery_date</column_name>
+        <column_name>Expected_Delivery_Date</column_name>
         <stream_name>Expected_Delivery_Date</stream_name>
       </field>
       <field>
-        <column_name>actual_receipt_date</column_name>
+        <column_name>Actual_Receipt_Date</column_name>
         <stream_name>Actual_Receipt_Date</stream_name>
       </field>
       <field>
-        <column_name>delay_days</column_name>
+        <column_name>Delay_Days</column_name>
         <stream_name>Delay_Days</stream_name>
       </field>
       <field>
-        <column_name>approval_status</column_name>
+        <column_name>Approval_Status</column_name>
         <stream_name>Approval_Status</stream_name>
       </field>
       <field>
-        <column_name>po_status</column_name>
+        <column_name>PO_Status</column_name>
         <stream_name>PO_Status</stream_name>
       </field>
     </fields>
