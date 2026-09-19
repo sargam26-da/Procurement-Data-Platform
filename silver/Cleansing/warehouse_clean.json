@@ -1,0 +1,102 @@
+[
+    {
+        "Warehouse_ID":"WH001",
+        "Warehouse_Name":"Chennai Central",
+        "City":"Chennai",
+        "Country":"India",
+        "Warehouse_Type":"Domestic",
+        "Capacity_Units":23172,
+        "Storage_Condition":"Ambient",
+        "Warehouse_Status":"Active"
+    },
+    {
+        "Warehouse_ID":"WH002",
+        "Warehouse_Name":"Mumbai West",
+        "City":"Mumbai",
+        "Country":"India",
+        "Warehouse_Type":"Domestic",
+        "Capacity_Units":18546,
+        "Storage_Condition":"Ambient",
+        "Warehouse_Status":"Active"
+    },
+    {
+        "Warehouse_ID":"WH003",
+        "Warehouse_Name":"Delhi North",
+        "City":"Delhi",
+        "Country":"India",
+        "Warehouse_Type":"Domestic",
+        "Capacity_Units":26648,
+        "Storage_Condition":"Climate Controlled",
+        "Warehouse_Status":"Active"
+    },
+    {
+        "Warehouse_ID":"WH004",
+        "Warehouse_Name":"Bengaluru South",
+        "City":"Bengaluru",
+        "Country":"India",
+        "Warehouse_Type":"Domestic",
+        "Capacity_Units":14608,
+        "Storage_Condition":"Climate Controlled",
+        "Warehouse_Status":"Active"
+    },
+    {
+        "Warehouse_ID":"WH005",
+        "Warehouse_Name":"Dubai Free Zone",
+        "City":"Dubai",
+        "Country":"UAE",
+        "Warehouse_Type":"International",
+        "Capacity_Units":23237,
+        "Storage_Condition":"Ambient",
+        "Warehouse_Status":"Active"
+    },
+    {
+        "Warehouse_ID":"WH006",
+        "Warehouse_Name":"Singapore Hub",
+        "City":"Singapore",
+        "Country":"Singapore",
+        "Warehouse_Type":"International",
+        "Capacity_Units":20762,
+        "Storage_Condition":"Climate Controlled",
+        "Warehouse_Status":"Active"
+    },
+    {
+        "Warehouse_ID":"WH007",
+        "Warehouse_Name":"Frankfurt Hub",
+        "City":"Frankfurt",
+        "Country":"Germany",
+        "Warehouse_Type":"International",
+        "Capacity_Units":5767,
+        "Storage_Condition":"Climate Controlled",
+        "Warehouse_Status":"Active"
+    },
+    {
+        "Warehouse_ID":"WH008",
+        "Warehouse_Name":"Los Angeles Hub",
+        "City":"Los Angeles",
+        "Country":"USA",
+        "Warehouse_Type":"International",
+        "Capacity_Units":20338,
+        "Storage_Condition":"Climate Controlled",
+        "Warehouse_Status":"Active"
+    },
+    {
+        "Warehouse_ID":"WH009",
+        "Warehouse_Name":"London Hub",
+        "City":"London",
+        "Country":"UK",
+        "Warehouse_Type":"International",
+        "Capacity_Units":26756,
+        "Storage_Condition":"Climate Controlled",
+        "Warehouse_Status":"Active"
+    },
+    {
+        "Warehouse_ID":"WH010",
+        "Warehouse_Name":"Tokyo Hub",
+        "City":"Tokyo",
+        "Country":"Japan",
+        "Warehouse_Type":"International",
+        "Capacity_Units":28951,
+        "Storage_Condition":"Cold Storage",
+        "Warehouse_Status":"Active"
+    }
+]

@@ -1,0 +1,251 @@
+Supplier_ID,Supplier_Name,Supplier_Type,Supplier_Country,Supplier_City,Primary_Category,Supplier_Rating,Typical_Lead_Time_Days,Supplier_Status,Currency
+S0001,Domestic Supplier 001,Domestic,India,Mumbai,Food & Beverage,Good,12,Active,INR
+S0002,Domestic Supplier 002,Domestic,India,Bengaluru,Office Supplies,Good,12,Under Review,INR
+S0003,Domestic Supplier 003,Domestic,India,Hyderabad,Electronics,Good,10,Active,INR
+S0004,Domestic Supplier 004,Domestic,India,Coimbatore,Office Supplies,Excellent,13,Active,INR
+S0005,Domestic Supplier 005,Domestic,India,Chennai,Industrial,Good,7,Active,INR
+S0006,Domestic Supplier 006,Domestic,India,Mumbai,Packaging,Excellent,6,Active,INR
+S0007,Domestic Supplier 007,Domestic,India,Mumbai,Food & Beverage,Average,24,Active,INR
+S0008,Domestic Supplier 008,Domestic,India,Mumbai,Industrial,Excellent,8,Under Review,INR
+S0009,Domestic Supplier 009,Domestic,India,Vellore,Automotive,Excellent,10,Active,INR
+S0010,Domestic Supplier 010,Domestic,India,Pune,Automotive,Good,24,Under Review,INR
+S0011,Domestic Supplier 011,Domestic,India,Hyderabad,Packaging,Average,26,Under Review,INR
+S0012,Domestic Supplier 012,Domestic,India,Vellore,Packaging,Excellent,25,Active,INR
+S0013,Domestic Supplier 013,Domestic,India,Delhi,Packaging,Good,24,Under Review,INR
+S0014,Domestic Supplier 014,Domestic,India,Coimbatore,Electronics,Good,15,Active,INR
+S0015,Domestic Supplier 015,Domestic,India,Mumbai,Packaging,Excellent,6,Under Review,INR
+S0016,Domestic Supplier 016,Domestic,India,Hyderabad,Industrial,Good,30,Active,INR
+S0017,Domestic Supplier 017,Domestic,India,Delhi,Food & Beverage,Average,28,Under Review,INR
+S0018,Domestic Supplier 018,Domestic,India,Pune,Office Supplies,Excellent,14,Active,INR
+S0019,Domestic Supplier 019,Domestic,India,Coimbatore,Automotive,Good,28,Active,INR
+S0020,Domestic Supplier 020,Domestic,India,Coimbatore,Industrial,Average,24,Active,INR
+S0021,Domestic Supplier 021,Domestic,India,Hyderabad,Office Supplies,Good,8,Active,INR
+S0022,Domestic Supplier 022,Domestic,India,Mumbai,Electronics,Good,11,Under Review,INR
+S0023,Domestic Supplier 023,Domestic,India,Chennai,Electronics,Average,6,Under Review,INR
+S0024,Domestic Supplier 024,Domestic,India,Pune,Food & Beverage,Good,24,Active,INR
+S0025,Domestic Supplier 025,Domestic,India,Mumbai,Automotive,Good,29,Active,INR
+S0026,Domestic Supplier 026,Domestic,India,Bengaluru,Food & Beverage,Excellent,20,Active,INR
+S0027,Domestic Supplier 027,Domestic,India,Chennai,Automotive,Good,12,Active,INR
+S0028,Domestic Supplier 028,Domestic,India,Chennai,Industrial,Excellent,6,Active,INR
+S0029,Domestic Supplier 029,Domestic,India,Chennai,Office Supplies,Good,28,Active,INR
+S0030,Domestic Supplier 030,Domestic,India,Mumbai,Industrial,Good,10,Active,INR
+S0031,Domestic Supplier 031,Domestic,India,Bengaluru,Automotive,Good,20,Active,INR
+S0032,Domestic Supplier 032,Domestic,India,Pune,Industrial,Good,9,Active,INR
+S0033,Domestic Supplier 033,Domestic,India,Vellore,Automotive,Good,6,Active,INR
+S0034,Domestic Supplier 034,Domestic,India,Coimbatore,Industrial,Good,28,Active,INR
+S0035,Domestic Supplier 035,Domestic,India,Bengaluru,Electronics,Good,9,Active,INR
+S0036,Domestic Supplier 036,Domestic,India,Vellore,Food & Beverage,Good,14,Active,INR
+S0037,Domestic Supplier 037,Domestic,India,Hyderabad,Industrial,Good,30,Active,INR
+S0038,Domestic Supplier 038,Domestic,India,Hyderabad,Office Supplies,Excellent,7,Active,INR
+S0039,Domestic Supplier 039,Domestic,India,Delhi,Automotive,Good,19,Under Review,INR
+S0040,Domestic Supplier 040,Domestic,India,Vellore,Packaging,Average,8,Active,INR
+S0041,Domestic Supplier 041,Domestic,India,Delhi,Office Supplies,Average,14,Active,INR
+S0042,Domestic Supplier 042,Domestic,India,Mumbai,Food & Beverage,Average,24,Under Review,INR
+S0043,Domestic Supplier 043,Domestic,India,Coimbatore,Packaging,Good,13,Under Review,INR
+S0044,Domestic Supplier 044,Domestic,India,Chennai,Food & Beverage,Good,16,Active,INR
+S0045,Domestic Supplier 045,Domestic,India,Delhi,Industrial,Good,7,Active,INR
+S0046,Domestic Supplier 046,Domestic,India,Vellore,Food & Beverage,Average,28,Under Review,INR
+S0047,Domestic Supplier 047,Domestic,India,Chennai,Industrial,Average,29,Active,INR
+S0048,Domestic Supplier 048,Domestic,India,Mumbai,Industrial,Good,14,Active,INR
+S0049,Domestic Supplier 049,Domestic,India,Chennai,Industrial,Average,6,Active,INR
+S0050,Domestic Supplier 050,Domestic,India,Bengaluru,Electronics,Good,11,Active,INR
+S0051,Domestic Supplier 051,Domestic,India,Vellore,Packaging,Excellent,11,Active,INR
+S0052,Domestic Supplier 052,Domestic,India,Vellore,Automotive,Good,24,Active,INR
+S0053,Domestic Supplier 053,Domestic,India,Coimbatore,Industrial,Good,6,Active,INR
+S0054,Domestic Supplier 054,Domestic,India,Mumbai,Electronics,Good,16,Active,INR
+S0055,Domestic Supplier 055,Domestic,India,Coimbatore,Electronics,Average,18,Active,INR
+S0056,Domestic Supplier 056,Domestic,India,Chennai,Industrial,Good,30,Active,INR
+S0057,Domestic Supplier 057,Domestic,India,Mumbai,Electronics,Excellent,13,Active,INR
+S0058,Domestic Supplier 058,Domestic,India,Bengaluru,Packaging,Good,29,Under Review,INR
+S0059,Domestic Supplier 059,Domestic,India,Coimbatore,Electronics,Average,28,Active,INR
+S0060,Domestic Supplier 060,Domestic,India,Hyderabad,Electronics,Good,18,Active,INR
+S0061,Domestic Supplier 061,Domestic,India,Coimbatore,Industrial,Average,10,Under Review,INR
+S0062,Domestic Supplier 062,Domestic,India,Bengaluru,Industrial,Excellent,5,Active,INR
+S0063,Domestic Supplier 063,Domestic,India,Chennai,Electronics,Good,10,Active,INR
+S0064,Domestic Supplier 064,Domestic,India,Vellore,Industrial,Average,20,Active,INR
+S0065,Domestic Supplier 065,Domestic,India,Vellore,Packaging,Good,5,Under Review,INR
+S0066,Domestic Supplier 066,Domestic,India,Delhi,Automotive,Good,25,Active,INR
+S0067,Domestic Supplier 067,Domestic,India,Delhi,Electronics,Average,8,Active,INR
+S0068,Domestic Supplier 068,Domestic,India,Coimbatore,Packaging,Good,18,Under Review,INR
+S0069,Domestic Supplier 069,Domestic,India,Chennai,Industrial,Excellent,11,Active,INR
+S0070,Domestic Supplier 070,Domestic,India,Coimbatore,Automotive,Excellent,30,Under Review,INR
+S0071,Domestic Supplier 071,Domestic,India,Mumbai,Packaging,Excellent,28,Active,INR
+S0072,Domestic Supplier 072,Domestic,India,Bengaluru,Food & Beverage,Excellent,24,Active,INR
+S0073,Domestic Supplier 073,Domestic,India,Coimbatore,Electronics,Good,5,Active,INR
+S0074,Domestic Supplier 074,Domestic,India,Hyderabad,Electronics,Good,14,Active,INR
+S0075,Domestic Supplier 075,Domestic,India,Delhi,Office Supplies,Average,21,Active,INR
+S0076,Domestic Supplier 076,Domestic,India,Vellore,Electronics,Average,25,Under Review,INR
+S0077,Domestic Supplier 077,Domestic,India,Delhi,Automotive,Excellent,24,Active,INR
+S0078,Domestic Supplier 078,Domestic,India,Delhi,Office Supplies,Good,23,Active,INR
+S0079,Domestic Supplier 079,Domestic,India,Mumbai,Food & Beverage,Excellent,29,Under Review,INR
+S0080,Domestic Supplier 080,Domestic,India,Bengaluru,Electronics,Good,22,Active,INR
+S0081,Domestic Supplier 081,Domestic,India,Mumbai,Electronics,Good,12,Active,INR
+S0082,Domestic Supplier 082,Domestic,India,Chennai,Office Supplies,Average,7,Active,INR
+S0083,Domestic Supplier 083,Domestic,India,Vellore,Office Supplies,Good,15,Active,INR
+S0084,Domestic Supplier 084,Domestic,India,Delhi,Industrial,Average,29,Active,INR
+S0085,Domestic Supplier 085,Domestic,India,Chennai,Electronics,Good,5,Under Review,INR
+S0086,Domestic Supplier 086,Domestic,India,Coimbatore,Packaging,Good,22,Under Review,INR
+S0087,Domestic Supplier 087,Domestic,India,Pune,Automotive,Good,18,Active,INR
+S0088,Domestic Supplier 088,Domestic,India,Vellore,Food & Beverage,Excellent,28,Active,INR
+S0089,Domestic Supplier 089,Domestic,India,Hyderabad,Packaging,Excellent,20,Under Review,INR
+S0090,Domestic Supplier 090,Domestic,India,Mumbai,Electronics,Good,14,Active,INR
+S0091,Domestic Supplier 091,Domestic,India,Coimbatore,Industrial,Excellent,17,Active,INR
+S0092,Domestic Supplier 092,Domestic,India,Hyderabad,Industrial,Good,13,Active,INR
+S0093,Domestic Supplier 093,Domestic,India,Delhi,Packaging,Good,10,Under Review,INR
+S0094,Domestic Supplier 094,Domestic,India,Mumbai,Packaging,Average,29,Active,INR
+S0095,Domestic Supplier 095,Domestic,India,Mumbai,Electronics,Excellent,24,Active,INR
+S0096,Domestic Supplier 096,Domestic,India,Vellore,Packaging,Excellent,30,Under Review,INR
+S0097,Domestic Supplier 097,Domestic,India,Vellore,Packaging,Good,15,Active,INR
+S0098,Domestic Supplier 098,Domestic,India,Chennai,Office Supplies,Good,9,Under Review,INR
+S0099,Domestic Supplier 099,Domestic,India,Mumbai,Office Supplies,Excellent,9,Active,INR
+S0100,Domestic Supplier 100,Domestic,India,Coimbatore,Industrial,Average,30,Active,INR
+S0101,Domestic Supplier 101,Domestic,India,Delhi,Automotive,Good,7,Active,INR
+S0102,Domestic Supplier 102,Domestic,India,Mumbai,Automotive,Good,29,Active,INR
+S0103,Domestic Supplier 103,Domestic,India,Pune,Food & Beverage,Excellent,23,Active,INR
+S0104,Domestic Supplier 104,Domestic,India,Delhi,Food & Beverage,Good,27,Active,INR
+S0105,Domestic Supplier 105,Domestic,India,Mumbai,Automotive,Good,5,Active,INR
+S0106,Domestic Supplier 106,Domestic,India,Pune,Packaging,Average,8,Active,INR
+S0107,Domestic Supplier 107,Domestic,India,Mumbai,Automotive,Excellent,27,Active,INR
+S0108,Domestic Supplier 108,Domestic,India,Chennai,Food & Beverage,Average,29,Under Review,INR
+S0109,Domestic Supplier 109,Domestic,India,Bengaluru,Office Supplies,Good,23,Active,INR
+S0110,Domestic Supplier 110,Domestic,India,Coimbatore,Industrial,Excellent,7,Active,INR
+S0111,Domestic Supplier 111,Domestic,India,Pune,Packaging,Good,14,Active,INR
+S0112,Domestic Supplier 112,Domestic,India,Coimbatore,Packaging,Average,26,Active,INR
+S0113,Domestic Supplier 113,Domestic,India,Coimbatore,Automotive,Excellent,5,Active,INR
+S0114,Domestic Supplier 114,Domestic,India,Hyderabad,Office Supplies,Excellent,22,Active,INR
+S0115,Domestic Supplier 115,Domestic,India,Chennai,Industrial,Average,25,Active,INR
+S0116,Domestic Supplier 116,Domestic,India,Pune,Automotive,Good,26,Active,INR
+S0117,Domestic Supplier 117,Domestic,India,Bengaluru,Office Supplies,Good,23,Active,INR
+S0118,Domestic Supplier 118,Domestic,India,Pune,Packaging,Good,29,Active,INR
+S0119,Domestic Supplier 119,Domestic,India,Bengaluru,Office Supplies,Excellent,5,Active,INR
+S0120,Domestic Supplier 120,Domestic,India,Coimbatore,Automotive,Good,27,Active,INR
+S0121,Domestic Supplier 121,Domestic,India,Pune,Office Supplies,Good,17,Active,INR
+S0122,Domestic Supplier 122,Domestic,India,Coimbatore,Industrial,Good,6,Active,INR
+S0123,Domestic Supplier 123,Domestic,India,Hyderabad,Automotive,Excellent,28,Under Review,INR
+S0124,Domestic Supplier 124,Domestic,India,Delhi,Office Supplies,Good,22,Active,INR
+S0125,Domestic Supplier 125,Domestic,India,Chennai,Industrial,Good,29,Active,INR
+S0126,Global Supplier 126,International,Germany,Frankfurt,Packaging,Average,6,Under Review,EUR
+S0127,Global Supplier 127,International,UAE,Dubai,Automotive,Average,20,Active,AED
+S0128,Global Supplier 128,International,Australia,Sydney,Office Supplies,Excellent,28,Active,AUD
+S0129,Global Supplier 129,International,USA,New York,Packaging,Average,17,Active,USD
+S0130,Global Supplier 130,International,Singapore,Singapore,Industrial,Excellent,15,Active,SGD
+S0131,Global Supplier 131,International,UK,London,Office Supplies,Good,22,Active,GBP
+S0132,Global Supplier 132,International,Japan,Tokyo,Food & Beverage,Average,6,Active,JPY
+S0133,Global Supplier 133,International,Germany,Berlin,Electronics,Excellent,20,Active,EUR
+S0134,Global Supplier 134,International,UK,London,Office Supplies,Average,22,Under Review,GBP
+S0135,Global Supplier 135,International,Germany,Berlin,Food & Beverage,Average,13,Active,EUR
+S0136,Global Supplier 136,International,Netherlands,Rotterdam,Office Supplies,Average,30,Active,EUR
+S0137,Global Supplier 137,International,China,Shanghai,Electronics,Good,29,Active,CNY
+S0138,Global Supplier 138,International,Australia,Melbourne,Electronics,Good,25,Active,AUD
+S0139,Global Supplier 139,International,UAE,Abu Dhabi,Industrial,Average,26,Active,AED
+S0140,Global Supplier 140,International,Japan,Osaka,Packaging,Average,22,Under Review,JPY
+S0141,Global Supplier 141,International,UAE,Dubai,Office Supplies,Good,10,Under Review,AED
+S0142,Global Supplier 142,International,Japan,Osaka,Electronics,Good,19,Active,JPY
+S0143,Global Supplier 143,International,Japan,Tokyo,Office Supplies,Average,6,Active,JPY
+S0144,Global Supplier 144,International,UK,Manchester,Electronics,Average,15,Under Review,GBP
+S0145,Global Supplier 145,International,UAE,Abu Dhabi,Food & Beverage,Average,17,Active,AED
+S0146,Global Supplier 146,International,Netherlands,Rotterdam,Food & Beverage,Excellent,25,Under Review,EUR
+S0147,Global Supplier 147,International,Germany,Hamburg,Packaging,Average,18,Active,EUR
+S0148,Global Supplier 148,International,UAE,Dubai,Food & Beverage,Good,21,Active,AED
+S0149,Global Supplier 149,International,Singapore,Singapore,Food & Beverage,Good,20,Active,SGD
+S0150,Global Supplier 150,International,Singapore,Singapore,Packaging,Average,25,Active,SGD
+S0151,Global Supplier 151,International,USA,New York,Food & Beverage,Excellent,18,Under Review,USD
+S0152,Global Supplier 152,International,Singapore,Singapore,Packaging,Average,13,Under Review,SGD
+S0153,Global Supplier 153,International,Germany,Berlin,Industrial,Average,29,Active,EUR
+S0154,Global Supplier 154,International,Australia,Sydney,Office Supplies,Excellent,30,Active,AUD
+S0155,Global Supplier 155,International,Australia,Sydney,Office Supplies,Excellent,7,Active,AUD
+S0156,Global Supplier 156,International,China,Shanghai,Food & Beverage,Excellent,9,Under Review,CNY
+S0157,Global Supplier 157,International,Australia,Melbourne,Food & Beverage,Good,23,Active,AUD
+S0158,Global Supplier 158,International,Netherlands,Rotterdam,Office Supplies,Excellent,20,Under Review,EUR
+S0159,Global Supplier 159,International,USA,Houston,Electronics,Excellent,24,Under Review,USD
+S0160,Global Supplier 160,International,China,Shenzhen,Packaging,Excellent,7,Active,CNY
+S0161,Global Supplier 161,International,UAE,Abu Dhabi,Electronics,Average,24,Active,AED
+S0162,Global Supplier 162,International,China,Guangzhou,Industrial,Good,12,Active,CNY
+S0163,Global Supplier 163,International,Japan,Tokyo,Office Supplies,Good,28,Active,JPY
+S0164,Global Supplier 164,International,Singapore,Singapore,Food & Beverage,Excellent,18,Under Review,SGD
+S0165,Global Supplier 165,International,USA,Chicago,Packaging,Good,28,Active,USD
+S0166,Global Supplier 166,International,Netherlands,Amsterdam,Electronics,Excellent,7,Active,EUR
+S0167,Global Supplier 167,International,USA,Los Angeles,Electronics,Good,18,Under Review,USD
+S0168,Global Supplier 168,International,Netherlands,Rotterdam,Food & Beverage,Good,12,Active,EUR
+S0169,Global Supplier 169,International,Australia,Melbourne,Food & Beverage,Good,18,Active,AUD
+S0170,Global Supplier 170,International,Japan,Osaka,Electronics,Good,10,Under Review,JPY
+S0171,Global Supplier 171,International,UK,Manchester,Automotive,Excellent,13,Under Review,GBP
+S0172,Global Supplier 172,International,Australia,Sydney,Electronics,Good,13,Active,AUD
+S0173,Global Supplier 173,International,Australia,Melbourne,Office Supplies,Excellent,5,Under Review,AUD
+S0174,Global Supplier 174,International,Singapore,Singapore,Automotive,Good,24,Active,SGD
+S0175,Global Supplier 175,International,China,Guangzhou,Food & Beverage,Average,5,Active,CNY
+S0176,Global Supplier 176,International,UK,London,Office Supplies,Average,16,Under Review,GBP
+S0177,Global Supplier 177,International,Netherlands,Rotterdam,Industrial,Excellent,13,Active,EUR
+S0178,Global Supplier 178,International,Japan,Tokyo,Food & Beverage,Good,16,Under Review,JPY
+S0179,Global Supplier 179,International,UK,Manchester,Industrial,Average,11,Active,GBP
+S0180,Global Supplier 180,International,Japan,Osaka,Office Supplies,Good,28,Active,JPY
+S0181,Global Supplier 181,International,UAE,Dubai,Automotive,Good,9,Under Review,AED
+S0182,Global Supplier 182,International,Japan,Tokyo,Electronics,Good,21,Active,JPY
+S0183,Global Supplier 183,International,USA,Houston,Industrial,Good,15,Active,USD
+S0184,Global Supplier 184,International,USA,New York,Automotive,Average,27,Active,USD
+S0185,Global Supplier 185,International,UAE,Abu Dhabi,Industrial,Good,14,Active,AED
+S0186,Global Supplier 186,International,Germany,Hamburg,Packaging,Excellent,18,Active,EUR
+S0187,Global Supplier 187,International,UAE,Abu Dhabi,Industrial,Good,17,Active,AED
+S0188,Global Supplier 188,International,UK,Manchester,Office Supplies,Excellent,16,Under Review,GBP
+S0189,Global Supplier 189,International,Germany,Hamburg,Industrial,Good,20,Under Review,EUR
+S0190,Global Supplier 190,International,Singapore,Singapore,Office Supplies,Good,7,Active,SGD
+S0191,Global Supplier 191,International,Germany,Munich,Industrial,Good,5,Active,EUR
+S0192,Global Supplier 192,International,Japan,Osaka,Packaging,Excellent,28,Active,JPY
+S0193,Global Supplier 193,International,Australia,Melbourne,Office Supplies,Excellent,10,Active,AUD
+S0194,Global Supplier 194,International,USA,Houston,Office Supplies,Good,8,Active,USD
+S0195,Global Supplier 195,International,Australia,Melbourne,Office Supplies,Good,29,Active,AUD
+S0196,Global Supplier 196,International,Netherlands,Amsterdam,Packaging,Good,18,Active,EUR
+S0197,Global Supplier 197,International,Australia,Sydney,Food & Beverage,Average,12,Active,AUD
+S0198,Global Supplier 198,International,Netherlands,Rotterdam,Industrial,Good,26,Under Review,EUR
+S0199,Global Supplier 199,International,Germany,Munich,Industrial,Good,30,Active,EUR
+S0200,Global Supplier 200,International,Germany,Frankfurt,Automotive,Average,17,Active,EUR
+S0201,Global Supplier 201,International,Netherlands,Rotterdam,Industrial,Good,19,Active,EUR
+S0202,Global Supplier 202,International,Australia,Sydney,Electronics,Good,5,Active,AUD
+S0203,Global Supplier 203,International,Japan,Tokyo,Packaging,Excellent,12,Under Review,JPY
+S0204,Global Supplier 204,International,Japan,Osaka,Food & Beverage,Good,16,Active,JPY
+S0205,Global Supplier 205,International,UAE,Dubai,Industrial,Good,24,Active,AED
+S0206,Global Supplier 206,International,UK,Manchester,Food & Beverage,Good,12,Active,GBP
+S0207,Global Supplier 207,International,Germany,Hamburg,Office Supplies,Good,19,Active,EUR
+S0208,Global Supplier 208,International,UK,London,Food & Beverage,Average,21,Active,GBP
+S0209,Global Supplier 209,International,China,Shenzhen,Automotive,Excellent,27,Active,CNY
+S0210,Global Supplier 210,International,Netherlands,Amsterdam,Industrial,Good,11,Active,EUR
+S0211,Global Supplier 211,International,UAE,Dubai,Packaging,Good,9,Active,AED
+S0212,Global Supplier 212,International,Australia,Sydney,Food & Beverage,Excellent,16,Active,AUD
+S0213,Global Supplier 213,International,UAE,Dubai,Packaging,Excellent,7,Active,AED
+S0214,Global Supplier 214,International,Netherlands,Amsterdam,Electronics,Good,21,Active,EUR
+S0215,Global Supplier 215,International,UAE,Dubai,Office Supplies,Good,5,Active,AED
+S0216,Global Supplier 216,International,Singapore,Singapore,Office Supplies,Average,26,Active,SGD
+S0217,Global Supplier 217,International,USA,Los Angeles,Electronics,Good,12,Under Review,USD
+S0218,Global Supplier 218,International,UK,London,Electronics,Good,19,Active,GBP
+S0219,Global Supplier 219,International,Germany,Berlin,Packaging,Good,17,Under Review,EUR
+S0220,Global Supplier 220,International,China,Shanghai,Packaging,Good,30,Under Review,CNY
+S0221,Global Supplier 221,International,Germany,Hamburg,Electronics,Good,28,Active,EUR
+S0222,Global Supplier 222,International,UAE,Abu Dhabi,Office Supplies,Good,20,Active,AED
+S0223,Global Supplier 223,International,UAE,Abu Dhabi,Industrial,Average,5,Under Review,AED
+S0224,Global Supplier 224,International,Australia,Melbourne,Office Supplies,Good,13,Active,AUD
+S0225,Global Supplier 225,International,USA,Los Angeles,Industrial,Good,30,Active,USD
+S0226,Global Supplier 226,International,Singapore,Singapore,Industrial,Excellent,27,Active,SGD
+S0227,Global Supplier 227,International,Netherlands,Amsterdam,Food & Beverage,Good,6,Under Review,EUR
+S0228,Global Supplier 228,International,Singapore,Singapore,Packaging,Average,19,Active,SGD
+S0229,Global Supplier 229,International,Germany,Berlin,Automotive,Good,17,Under Review,EUR
+S0230,Global Supplier 230,International,Netherlands,Amsterdam,Automotive,Average,10,Active,EUR
+S0231,Global Supplier 231,International,Singapore,Singapore,Industrial,Average,15,Active,SGD
+S0232,Global Supplier 232,International,Australia,Sydney,Automotive,Good,16,Under Review,AUD
+S0233,Global Supplier 233,International,Australia,Sydney,Food & Beverage,Average,18,Active,AUD
+S0234,Global Supplier 234,International,Australia,Sydney,Electronics,Average,16,Active,AUD
+S0235,Global Supplier 235,International,China,Shenzhen,Electronics,Average,22,Under Review,CNY
+S0236,Global Supplier 236,International,Germany,Frankfurt,Office Supplies,Excellent,15,Active,EUR
+S0237,Global Supplier 237,International,USA,Houston,Food & Beverage,Good,24,Active,USD
+S0238,Global Supplier 238,International,China,Shenzhen,Packaging,Good,15,Active,CNY
+S0239,Global Supplier 239,International,Singapore,Singapore,Industrial,Average,6,Under Review,SGD
+S0240,Global Supplier 240,International,Japan,Tokyo,Industrial,Good,30,Active,JPY
+S0241,Global Supplier 241,International,China,Guangzhou,Electronics,Excellent,12,Active,CNY
+S0242,Global Supplier 242,International,Netherlands,Rotterdam,Office Supplies,Good,28,Active,EUR
+S0243,Global Supplier 243,International,China,Shanghai,Office Supplies,Good,22,Active,CNY
+S0244,Global Supplier 244,International,Germany,Frankfurt,Packaging,Good,15,Active,EUR
+S0245,Global Supplier 245,International,Japan,Osaka,Electronics,Good,9,Active,JPY
+S0246,Global Supplier 246,International,USA,Chicago,Office Supplies,Excellent,23,Active,USD
+S0247,Global Supplier 247,International,Netherlands,Rotterdam,Automotive,Good,28,Active,EUR
+S0248,Global Supplier 248,International,UK,London,Industrial,Excellent,7,Under Review,GBP
+S0249,Global Supplier 249,International,UK,London,Automotive,Good,12,Under Review,GBP
+S0250,Global Supplier 250,International,Germany,Frankfurt,Office Supplies,Average,11,Under Review,EUR
