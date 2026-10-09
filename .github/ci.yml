@@ -1,0 +1,40 @@
+
+name: Procurement Data Platform CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check Python syntax
+        run: python -m compileall -q python
+
+      - name: Validate Pentaho XML
+        run: |
+          python - <<'PY'
+          import pathlib
+          import xml.etree.ElementTree as ET
+
+          files = list(pathlib.Path(".").rglob("*.ktr"))
+          files += list(pathlib.Path(".").rglob("*.kjb"))
+
+          for file in files:
+              ET.parse(file)
+              print(f"Valid XML: {file}")
+
+          print(f"Validated {len(files)} Pentaho files.")
+          PY
