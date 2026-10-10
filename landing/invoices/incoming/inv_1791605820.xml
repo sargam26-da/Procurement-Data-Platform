@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<invoices><invoice>
+    <Invoice_ID>INV100236</Invoice_ID>
+    <PO_ID>PO000279</PO_ID>
+    <Supplier_ID>S0086</Supplier_ID>
+    <Invoice_Date>2025/03/03 00:00:00.000</Invoice_Date>
+    <Receipt_Date>2025/03/28 00:00:00.000</Receipt_Date>
+    <Due_Date>2025/04/27 00:00:00.000</Due_Date>
+    <Invoice_Amount_INR>1961633.69</Invoice_Amount_INR>
+    <Currency>INR</Currency>
+    <Exchange_Rate_to_INR>1</Exchange_Rate_to_INR>
+    <Payment_Status>Partially Paid</Payment_Status>
+    <Paid_Date>NOT_APPLICABLE</Paid_Date>
+    <Matching_Status>Three-Way Match</Matching_Status>
+    <Invoice_Approval_Status>Pending</Invoice_Approval_Status>
+  </invoice>
+  <invoice>
+    <Invoice_ID>INV100237</Invoice_ID>
+    <PO_ID>PO002929</PO_ID>
+    <Supplier_ID>S0144</Supplier_ID>
+    <Invoice_Date>2026/03/22 00:00:00.000</Invoice_Date>
+    <Receipt_Date>2026/04/08 00:00:00.000</Receipt_Date>
+    <Due_Date>2026/07/07 00:00:00.000</Due_Date>
+    <Invoice_Amount_INR>10516748.14</Invoice_Amount_INR>
+    <Currency>GBP</Currency>
+    <Exchange_Rate_to_INR>106</Exchange_Rate_to_INR>
+    <Payment_Status>Paid</Payment_Status>
+    <Paid_Date>2026/07/07 00:00:00.000</Paid_Date>
+    <Matching_Status>Three-Way Match</Matching_Status>
+    <Invoice_Approval_Status>Approved</Invoice_Approval_Status>
+  </invoice>
+  <invoice>
+    <Invoice_ID>INV100238</Invoice_ID>
+    <PO_ID>PO000958</PO_ID>
+    <Supplier_ID>S0007</Supplier_ID>
+    <Invoice_Date>2025/09/29 00:00:00.000</Invoice_Date>
+    <Receipt_Date>2025/10/27 00:00:00.000</Receipt_Date>
+    <Due_Date>2026/01/25 00:00:00.000</Due_Date>
+    <Invoice_Amount_INR>97442122.38</Invoice_Amount_INR>
+    <Currency>INR</Currency>
+    <Exchange_Rate_to_INR>1</Exchange_Rate_to_INR>
+    <Payment_Status>Paid</Payment_Status>
+    <Paid_Date>2026/01/17 00:00:00.000</Paid_Date>
+    <Matching_Status>Manual Review</Matching_Status>
+    <Invoice_Approval_Status>Approved</Invoice_Approval_Status>
+  </invoice>
+  <invoice>
+    <Invoice_ID>INV100239</Invoice_ID>
+    <PO_ID>PO002578</PO_ID>
+    <Supplier_ID>S0151</Supplier_ID>
+    <Invoice_Date>2025/06/26 00:00:00.000</Invoice_Date>
+    <Receipt_Date>2025/07/17 00:00:00.000</Receipt_Date>
+    <Due_Date>2025/10/15 00:00:00.000</Due_Date>
+    <Invoice_Amount_INR>2254530.59</Invoice_Amount_INR>
+    <Currency>USD</Currency>
+    <Exchange_Rate_to_INR>83</Exchange_Rate_to_INR>
+    <Payment_Status>Overdue</Payment_Status>
+    <Paid_Date>NOT_APPLICABLE</Paid_Date>
+    <Matching_Status>Three-Way Match</Matching_Status>
+    <Invoice_Approval_Status>Pending</Invoice_Approval_Status>
+  </invoice>
+  <invoice>
+    <Invoice_ID>INV100240</Invoice_ID>
+    <PO_ID>PO000574</PO_ID>
+    <Supplier_ID>S0089</Supplier_ID>
+    <Invoice_Date>2025/06/18 00:00:00.000</Invoice_Date>
+    <Receipt_Date>2025/07/12 00:00:00.000</Receipt_Date>
+    <Due_Date>2025/10/10 00:00:00.000</Due_Date>
+    <Invoice_Amount_INR>42890726.54</Invoice_Amount_INR>
+    <Currency>INR</Currency>
+    <Exchange_Rate_to_INR>1</Exchange_Rate_to_INR>
+    <Payment_Status>Paid</Payment_Status>
+    <Paid_Date>2025/10/05 00:00:00.000</Paid_Date>
+    <Matching_Status>Three-Way Match</Matching_Status>
+    <Invoice_Approval_Status>Approved</Invoice_Approval_Status>
+  </invoice>
+  </invoices>
